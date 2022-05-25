@@ -1,0 +1,2 @@
+# Scripts
+loadstring(game:HttpGet(""))()
